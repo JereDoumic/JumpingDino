@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1624308436 source:c:\users\lucas\desktop\utn\jumping_dino\vistas.c
+	<conio.h>
+	<stdio.h>
+	<string.h>
+
+1624314744 source:c:\users\lucas\desktop\utn\jumping_dino\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1624588447 source:c:\users\lucas\desktop\utn\jumping_dino\utiles.c
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+
+1624315650 source:c:\users\lucas\desktop\utn\jumping_dino\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<pthread.h>
+
+1624315650 source:c:\users\lucas\desktop\utn\jumping_dino_final\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<pthread.h>
+
+1624314744 source:c:\users\lucas\desktop\utn\jumping_dino_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1624588447 source:c:\users\lucas\desktop\utn\jumping_dino_final\utiles.c
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+
+1624590133 source:c:\users\lucas\desktop\utn\jumping_dino_final\vistas.c
+	<conio.h>
+	<stdio.h>
+	<string.h>
+
+1624648498 source:c:\users\m\desktop\jumping_dino_final\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<pthread.h>
+
+1632091665 source:c:\users\m\desktop\jumping_dino_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1632091694 source:c:\users\m\desktop\jumping_dino_final\utiles.c
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+
+1632091609 source:c:\users\m\desktop\jumping_dino_final\vistas.c
+	<conio.h>
+	<stdio.h>
+	<string.h>
+
+1637624991 source:c:\users\m\documents\jere\utn\laboratiorio 2do trim}\jumping_dino_final\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<pthread.h>
+
+1635375130 source:c:\users\m\documents\jere\utn\laboratiorio 2do trim}\jumping_dino_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1632091694 source:c:\users\m\documents\jere\utn\laboratiorio 2do trim}\jumping_dino_final\utiles.c
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+
+1637624910 source:c:\users\m\documents\jere\utn\laboratiorio 2do trim}\jumping_dino_final\vistas.c
+	<conio.h>
+	<stdio.h>
+	<string.h>
+
+1637624991 source:d:\jere\utn\laboratiorio 2do trim}\jumping_dino_final\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<pthread.h>
+
+1714666136 source:d:\jere\utn\laboratiorio 2do trim}\jumping_dino_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1632091694 source:d:\jere\utn\laboratiorio 2do trim}\jumping_dino_final\utiles.c
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+
+1637624910 source:d:\jere\utn\laboratiorio 2do trim}\jumping_dino_final\vistas.c
+	<conio.h>
+	<stdio.h>
+	<string.h>
+
